@@ -1,0 +1,1 @@
+Please see fast-ai-resnext101.ipynb for tuning the final model.
